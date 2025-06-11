@@ -1,0 +1,7 @@
+*.uvguix.*
+DebugConfig/
+Listings/
+RTE/
+Objects/
+.vscode/
+.vs/
