@@ -1,7 +1,22 @@
-## 🎮 Ping
+<p align="center">
+<img src="https://github.com/user-attachments/assets/f6ac32bd-76f9-4957-8dea-ec592b3a1954" width="300">
+</p>
 
-### 📝 Description  
+<h1 align="center"> 
+Ping
+</h1>
+
+<p align="center">
 Classic Pong-style game where two players bounce a ball and try to prevent it from passing their paddle.
+</p>
+
+---
+## 🎮 Gameplay Showcase
+
+Here’s a quick look at the game in action:
+<p align="center">
+<img src="https://github.com/user-attachments/assets/3df3f836-1959-4a81-a6e0-cc8903b7ac0c" width="500">
+</p>
 
 ---
 
